@@ -8,7 +8,7 @@ This repository contains a **single Jupyter notebook** implementing retraining o
 ---
 ## Datasets
 
-The imbalanced datasets used in this project are available from **IGL Bench**:
+The imbalanced datasets of cora, citeseer, pubmed  used in this project are available from **IGL Bench** > go to node level folder:
 
 - [IGL Bench: Imbalanced GNN Dataset](https://drive.google.com/drive/folders/1GFfu6oXEaaB8-DkgBEsIXMid_i3br7HI?usp=drive_link)
 
