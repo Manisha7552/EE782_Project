@@ -10,7 +10,7 @@ This repository contains a **single Jupyter notebook** implementing retraining o
 
 The imbalanced datasets used in this project are available from **IGL Bench**:
 
-- [IGL Bench: Imbalanced GNN Dataset]([https://drive.google.com/file/d/YOUR_FILE_ID/view?usp=sharing](https://drive.google.com/drive/folders/1GFfu6oXEaaB8-DkgBEsIXMid_i3br7HI?usp=drive_link))
+- [IGL Bench: Imbalanced GNN Dataset](https://drive.google.com/drive/folders/1GFfu6oXEaaB8-DkgBEsIXMid_i3br7HI?usp=drive_link)
 
 > Download and extract the dataset into the `data/` folder before running the notebook.
 
